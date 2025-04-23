@@ -2,6 +2,7 @@
 
 Minishell is a simple shell implementation that replicates basic functionalities of a Unix shell. This project was developed as part of a team effort, where my main
 contributions were focused on implementing built-in commands, signal handling, and environment variable expansion (including handling $? for exit status).
+
 ---
 
 ### Features
